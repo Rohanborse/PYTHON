@@ -1,0 +1,12 @@
+Name : Rohan Borse
+Adress Line 1 : Sr PG ,Niladri 
+Adress Line 2 : EC Phase 1,
+City,State : Bglr, KA
+Pin Code : 560100
+
+Name : Rohan Borse
+Shipping Adress : SR PG ,Niladri EC Phase1,
+Billing Adress : Cdac,EC PHASE1,bglr,KA, 560100
+City,State : Bglr, KA
+Pin Code : 560100
+
